@@ -391,7 +391,7 @@ export default function Home() {
                       Split-Wise-Ui
                     </span>
                     <span className="text-xs text-emerald-400 font-medium -mt-1">
-                      Om-Singh-Ui
+                      Om Singh
                     </span>
                   </div>
                 </div>
@@ -404,12 +404,12 @@ export default function Home() {
                   {[
                     {
                       icon: Github,
-                      href: "https://github.com/om-singh-ui",
+                      href: "https://github.com/rajputomsingh",
                       label: "GitHub",
                     },
                     {
                       icon: Linkedin,
-                      href: "https://www.linkedin.com/in/om-singh-ui-1a761a323/",
+                      href: "https://www.linkedin.com/in/rajputomsingh",
                       label: "LinkedIn",
                     },
                     {
@@ -486,12 +486,12 @@ export default function Home() {
               <p className="text-gray-400 text-sm">
                 Designed and developed with ❤️ by{" "}
                 <a
-                  href="https://github.com/om-singh-ui"
+                  href="https://github.com/rajputomsingh"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-emerald-400 hover:text-emerald-300 font-bold transition-colors duration-300"
                 >
-                  Om-Singh-UI
+                  Om Singh
                 </a>
               </p>
             </div>
