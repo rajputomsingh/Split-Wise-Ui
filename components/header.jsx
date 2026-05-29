@@ -54,7 +54,7 @@ const Header = () => {
               <span className="text-2xl font-bold bg-gradient-to-r from-teal-400 to-white bg-clip-text text-transparent">
                 Split-Wise-Ui
               </span>
-              <span className="text-xs text-emerald-400 font-medium -mt-1">Om-Singh-Ui</span>
+              <span className="text-xs text-emerald-400 font-medium -mt-1">Om Singh</span>
             </div>
           </Link>
 
